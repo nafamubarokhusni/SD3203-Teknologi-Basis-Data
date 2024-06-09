@@ -1,6 +1,6 @@
 # SD3203 Tenologi Basis Data
 
-# Tugas Individu
+# Tugas Individu TBD
 
 1. [Materialized views & Transactions](/tugas%20materialiazed%20view%20transaction/materialized-views-transactions.md)
 2. [Tunning](/Tugas%20Tuning%20Database/README.md)
